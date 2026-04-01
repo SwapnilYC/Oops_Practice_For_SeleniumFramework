@@ -1,10 +1,10 @@
-package lecture147;
+package lecture148;
 
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Test;
 
-public class ParentClass {
+
+public class ParentClass148 {
 
 	@BeforeMethod
 	public void beforeRun() {
