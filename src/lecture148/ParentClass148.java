@@ -8,12 +8,12 @@ public class ParentClass148 {
 
 	@BeforeMethod
 	public void beforeRun() {
-		System.out.println("Run me first(@BeforeMethod present in parent class)");
+		System.out.println("Run me first-------------------------------------\n");
 	}
 
 	@AfterMethod
 	public void afterRun() {
-		System.out.println("Run me Last(@AfterMethod present in parent class)");
+		System.out.println("\nRun me Last--------------------------------------");
 	}
 
 	public void doThis() {
